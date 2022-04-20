@@ -1,0 +1,32 @@
+[
+    {
+        "id ;Getreide;Wasserverbauch": "1;Weizen;2"
+    },
+    {
+        "id ;Getreide;Wasserverbauch": "2;Gerste ;4"
+    },
+    {
+        "id ;Getreide;Wasserverbauch": "3;Roggen ;5"
+    },
+    {
+        "id ;Getreide;Wasserverbauch": "4;Hafer;3"
+    },
+    {
+        "id ;Getreide;Wasserverbauch": "5;Dinkel;2"
+    },
+    {
+        "id ;Getreide;Wasserverbauch": "6;Gr�nkern;4"
+    },
+    {
+        "id ;Getreide;Wasserverbauch": "7;Mais;1"
+    },
+    {
+        "id ;Getreide;Wasserverbauch": "8;Reis;5"
+    },
+    {
+        "id ;Getreide;Wasserverbauch": "9;Hirse;2"
+    },
+    {
+        "id ;Getreide;Wasserverbauch": "10;Emmer;1"
+    }
+]
