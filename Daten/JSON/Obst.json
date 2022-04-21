@@ -1,32 +1,52 @@
 [
     {
-        "id ;Obst;Wasserverbauch": "1;Apfel;1"
+        "id" : 0,
+		"Obst":"Apfel",
+		"Wasserverbauch": 1
     },
-    {
-        "id ;Obst;Wasserverbauch": "2;Banane;4"
+	{
+        "id" : 1,
+		"Obst":"Banane",
+		"Wasserverbauch": 4
     },
-    {
-        "id ;Obst;Wasserverbauch": "3;Zitrone;1"
+	{
+        "id" : 2,
+		"Obst":"Zitrone",
+		"Wasserverbauch": 1
     },
-    {
-        "id ;Obst;Wasserverbauch": "4;Erdbeere;5"
+	{
+        "id" : 3,
+		"Obst":"Erdbeere",
+		"Wasserverbauch": 5
     },
-    {
-        "id ;Obst;Wasserverbauch": "5;Wassermelone;5"
+	{
+        "id" : 4,
+		"Obst":"Wassermelone",
+		"Wasserverbauch": 5
     },
-    {
-        "id ;Obst;Wasserverbauch": "6;Pfirsich;3"
+	{
+        "id" : 5,
+		"Obst":"Pfirsich",
+		"Wasserverbauch": 3
     },
-    {
-        "id ;Obst;Wasserverbauch": "7;Orange;5"
+	{
+        "id" : 6,
+		"Obst":"Orange",
+		"Wasserverbauch": 5
     },
-    {
-        "id ;Obst;Wasserverbauch": "8;Aprikose;2"
+	{
+        "id" : 7,
+		"Obst":"Aprikose",
+		"Wasserverbauch": 2
     },
-    {
-        "id ;Obst;Wasserverbauch": "9;Granatapfel;1"
+	{
+        "id" : 8,
+		"Obst":"Granatapfel",
+		"Wasserverbauch": 1
     },
-    {
-        "id ;Obst;Wasserverbauch": "10;Kiwi;3"
+	{
+        "id" : 9,
+		"Obst":"Kiwi",
+		"Wasserverbauch": 3
     }
 ]

@@ -1,32 +1,52 @@
 [
     {
-        "id ;Gemuese;Wasserverbauch": "1;Aubergine;2"
+        "id" : 0,
+		"Gemuese":"Aubergine",
+		"Wasserverbauch": 2
     },
-    {
-        "id ;Gemuese;Wasserverbauch": "2;Paprika;4"
+	{
+        "id" : 1,
+		"Gemuese":"Paprika",
+		"Wasserverbauch": 4
     },
-    {
-        "id ;Gemuese;Wasserverbauch": "3;Gruke;5"
+	{
+        "id" : 2,
+		"Gemuese":"Paprika",
+		"Wasserverbauch": 4
     },
-    {
-        "id ;Gemuese;Wasserverbauch": "4;Zucchini;5"
+	{
+        "id" : 3,
+		"Gemuese":"Gruke",
+		"Wasserverbauch": 5
     },
-    {
-        "id ;Gemuese;Wasserverbauch": "5;Perperoni;1"
+	{
+        "id" : 4,
+		"Gemuese":"Zucchini",
+		"Wasserverbauch": 5
     },
-    {
-        "id ;Gemuese;Wasserverbauch": "6;Tomaten;5"
+	{
+        "id" : 5,
+		"Gemuese":"Perperoni",
+		"Wasserverbauch": 1
     },
-    {
-        "id ;Gemuese;Wasserverbauch": "7;Feldsalat;2"
+	{
+        "id" : 6,
+		"Gemuese":"Tomaten",
+		"Wasserverbauch": 4
     },
-    {
-        "id ;Gemuese;Wasserverbauch": "8;Karotten;1"
+	{
+        "id" : 7,
+		"Gemuese":"Feldsalat",
+		"Wasserverbauch": 3
     },
-    {
-        "id ;Gemuese;Wasserverbauch": "9;Rettich;4"
+	{
+        "id" : 8,
+		"Gemuese":"Karotten",
+		"Wasserverbauch": 1
     },
-    {
-        "id ;Gemuese;Wasserverbauch": "10;Kuerbis;3"
+	{
+        "id" : 9,
+		"Gemuese":"Kartoffel",
+		"Wasserverbauch": 3
     }
 ]
