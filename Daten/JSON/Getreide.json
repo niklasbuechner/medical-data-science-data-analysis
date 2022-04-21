@@ -1,32 +1,52 @@
 [
     {
-        "id ;Getreide;Wasserverbauch": "1;Weizen;2"
+        "id" : 0,
+		"Getreide":"Weizen",
+		"Wasserverbauch": 2
     },
-    {
-        "id ;Getreide;Wasserverbauch": "2;Gerste ;4"
+	{
+        "id" : 1,
+		"Getreide":"Gerste",
+		"Wasserverbauch": 4
     },
-    {
-        "id ;Getreide;Wasserverbauch": "3;Roggen ;5"
+	{
+        "id" : 2,
+		"Getreide":"Roggen",
+		"Wasserverbauch": 5
     },
-    {
-        "id ;Getreide;Wasserverbauch": "4;Hafer;3"
+	{
+        "id" : 3,
+		"Getreide":"Hafer",
+		"Wasserverbauch": 3
     },
-    {
-        "id ;Getreide;Wasserverbauch": "5;Dinkel;2"
+	{
+        "id" : 4,
+		"Getreide":"Gruenkern",
+		"Wasserverbauch": 4
     },
-    {
-        "id ;Getreide;Wasserverbauch": "6;Gr�nkern;4"
+	{
+        "id" : 5,
+		"Getreide":"Mais",
+		"Wasserverbauch": 1
     },
-    {
-        "id ;Getreide;Wasserverbauch": "7;Mais;1"
+	{
+        "id" : 6,
+		"Getreide":"Reis",
+		"Wasserverbauch": 5
     },
-    {
-        "id ;Getreide;Wasserverbauch": "8;Reis;5"
+	{
+        "id" : 7,
+		"Getreide":"Hirse",
+		"Wasserverbauch": 2
     },
-    {
-        "id ;Getreide;Wasserverbauch": "9;Hirse;2"
+	{
+        "id" : 8,
+		"Getreide":"Dinkel",
+		"Wasserverbauch": 2
     },
-    {
-        "id ;Getreide;Wasserverbauch": "10;Emmer;1"
+	{
+        "id" : 9,
+		"Getreide":"Emmer",
+		"Wasserverbauch": 1
     }
 ]
