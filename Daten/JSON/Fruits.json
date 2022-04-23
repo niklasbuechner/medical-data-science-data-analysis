@@ -1,0 +1,115 @@
+[
+	{
+        "id" : 1,
+		"kind":"Apple",
+		"size_of_the_plant": "5",
+		"water_consumption": {
+			"Winter" : "3", 
+			"Sommer" : "1",
+			"Spring": "1", 
+			"Autumn" : "4",
+		}
+		"total_liters_consumed":""
+		"Value": 2.29,
+		"Name_of_the_field":4
+    },
+	{
+        "id" : 2,
+		"kind":"Banana",
+		"size_of_the_plant": "30",
+		"water_consumption": {
+			"Winter" : "1", 
+			"Sommer" : "4",
+			"Spring": "4", 
+			"Autumn" : "4",
+		}
+		"total_liters_consumed":"",
+		"Value": 1.99,
+		"Name_of_the_field": 12
+    },
+	{
+        "id" : 3,
+		"kind":"Lemon",
+		"size_of_the_plant": "5",
+		"water_consumption": {
+			"Winter" : "1", 
+			"Sommer" : "4",
+			"Spring": "3", 
+			"Autumn" : "1",
+		}
+		"total_liters_consumed":""
+		"Value": 1.79,
+		"Name_of_the_field":3
+    },
+	{
+        "id" : 4,
+		"kind":"Strawberry",
+		"size_of_the_plant": "4",
+		"water_consumption":null,
+		"total_liters_consumed":"",
+		"Value": 4.49,
+		"Name_of_the_field": 6
+    },
+		{
+        "id" : 5,
+		"kind":"Watermelon",
+		"size_of_the_plant": "30",
+		"water_consumption": {
+			"Winter" : "1", 
+			"Sommer" : "4",
+			"Spring": "2", 
+			"Autumn" : "4",
+		}
+		"total_liters_consumed":""
+		"Value": 2.29,
+		"Name_of_the_field": 11
+    },
+	{
+        "id" : 6,
+		"kind":"Peach",
+		"size_of_the_plant": "5",
+		"water_consumption": {
+			"Winter" : "1", 
+			"Sommer" : "4",
+			"Spring" : "4", 
+			"Autumn" : "1",
+		}
+		"total_liters_consumed":"",
+		"Value": 2.79,
+		"Name_of_the_field": 13
+    },
+		{
+        "id" : 7,
+		"kind":"Orange",
+		"size_of_the_plant": "35",
+		"water_consumption": null,
+		"total_liters_consumed":"",
+		"Value": 1.79,
+		"Name_of_the_field": 5
+    },
+		{
+        "id" : 8,
+		"kind":"Apricot",
+		"size_of_the_plant": "4",
+		"water_consumption": {
+			"Winter" : "1", 
+			"Sommer" : "4",
+			"Spring": "4", 
+			"Autumn" : "3",
+		}
+		"total_liters_consumed":""
+		"Value": 2.99,
+		"Name_of_the_field":9
+    },
+	{
+        "id" : 9,
+		"kind":"Pomegranate",
+		"size_of_the_plant": "6",
+		"water_consumption": null,
+		"total_liters_consumed":"",
+		"Value": 4.99,
+		"Name_of_the_field": 7
+    },
+]
+
+

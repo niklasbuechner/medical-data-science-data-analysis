@@ -14,7 +14,7 @@
 			"Autumn" : "4",
 		}
 		"total_liters_consumed":""
-		"Rename": 3.29,
+		"Rename":""
 		"Name_of_the_field":2
     },
 	{
@@ -23,7 +23,7 @@
 		"size_of_the_plant": "30",
 		"water_consumption": null,
 		"total_liters_consumed":"",
-		"Rename": 0.99,
+		"Rename":""
 		"Name_of_the_field": 13
     },
 	{
@@ -37,7 +37,7 @@
 			"Autumn" : "2",
 		}
 		"total_liters_consumed":""
-		"Value": 2.29,
+		"Rename":""
 		"Name_of_the_field":11
     },
 	{
@@ -46,7 +46,7 @@
 		"size_of_the_plant": "15",
 		"water_consumption":null,
 		"total_liters_consumed":"",
-		"Value": 1.79,
+		"Rename":""
 		"Name_of_the_field": 8
     },
 		{
@@ -60,8 +60,8 @@
 			"Autumn" : "2",
 		}
 		"total_liters_consumed":""
-		"Value": 1.19,
-		"Name_of_the_field": 4
+		"Rename":""
+		"Name_of_the_field":4
     },
 	{
         "id" : 6,
@@ -74,7 +74,7 @@
 			"Autumn" : "1",
 		}
 		"total_liters_consumed":"",
-		"Value": 2.39,
+		"Rename":""
 		"Name_of_the_field": 1
     },
 		{
@@ -88,7 +88,7 @@
 			"Autumn" : "4",
 		}
 		"total_liters_consumed":"",
-		"Value": 1.79,
+		"Rename":"",
 		"Name_of_the_field": 5
     },
 		{
@@ -102,7 +102,7 @@
 			"Autumn" : "3",
 		}
 		"total_liters_consumed":""
-		"Value": 1.99,
+		"Rename":"",
 		"Name_of_the_field":9
     },
 	{
@@ -116,7 +116,7 @@
 			"Autumn" : "1",
 		}
 		"total_liters_consumed":"",
-		"Value": 14.99,
+		"Rename":"",
 		"Name_of_the_field": 3
     },
 ]

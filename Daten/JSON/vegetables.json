@@ -1,11 +1,7 @@
-"csv"
-"json"
-"Datenbank Name_of_the_field"
-
 [
 	{
         "id" : 1,
-		"kind":"Kartoffel",
+		"kind":"Potato",
 		"size_of_the_plant": "5",
 		"water_consumption": {
 			"Winter" : "1", 
@@ -14,16 +10,16 @@
 			"Autumn" : "4",
 		}
 		"total_liters_consumed":""
-		"Rename": 3.29,
+		"Value": 3.29,
 		"Name_of_the_field":2
     },
 	{
         "id" : 2,
-		"kind":"Gurke",
+		"kind":"Cucumber",
 		"size_of_the_plant": "30",
 		"water_consumption": null,
 		"total_liters_consumed":"",
-		"Rename": 0.99,
+		"Value": 0.99,
 		"Name_of_the_field": 13
     },
 	{
@@ -42,7 +38,7 @@
     },
 	{
         "id" : 4,
-		"kind":"Paprika",
+		"kind":"Peppers",
 		"size_of_the_plant": "15",
 		"water_consumption":null,
 		"total_liters_consumed":"",
@@ -65,7 +61,7 @@
     },
 	{
         "id" : 6,
-		"kind":"Tomate",
+		"kind":"Tomato",
 		"size_of_the_plant": "3",
 		"water_consumption": {
 			"Winter" : "1", 
@@ -79,7 +75,7 @@
     },
 		{
         "id" : 7,
-		"kind":"Rettich",
+		"kind":"Radish",
 		"size_of_the_plant": "35",
 		"water_consumption": {
 			"Winter" : "3", 
@@ -93,7 +89,7 @@
     },
 		{
         "id" : 8,
-		"kind":"Feldsalat",
+		"kind":"Lamb's lettuce",
 		"size_of_the_plant": "1",
 		"water_consumption": {
 			"Winter" : "4", 
@@ -107,7 +103,7 @@
     },
 	{
         "id" : 9,
-		"kind":"Spargel",
+		"kind":"Asparagus",
 		"size_of_the_plant": "15",
 		"water_consumption": {
 			"Winter" : "3", 
