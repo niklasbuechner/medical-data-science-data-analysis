@@ -1,0 +1,119 @@
+[
+	{
+        "id" : 1,
+		"kind":"Potato",
+		"size_of_the_plant": "5",
+		"water_consumption": {
+			"Winter" : "1", 
+			"Sommer" : "3",
+			"Spring": "2", 
+			"Autumn" : "4",
+		}
+		"total_liters_consumed":""
+		"Value": 3.29,
+		"Name_of_the_field":2
+    },
+	{
+        "id" : 2,
+		"kind":"Cucumber",
+		"size_of_the_plant": "30",
+		"water_consumption": null,
+		"total_liters_consumed":"",
+		"Value": 0.99,
+		"Name_of_the_field": 13
+    },
+	{
+        "id" : 3,
+		"kind":"Zucchini",
+		"size_of_the_plant": "10",
+		"water_consumption": {
+			"Winter" : "1", 
+			"Sommer" : "4",
+			"Spring": "3", 
+			"Autumn" : "2",
+		}
+		"total_liters_consumed":""
+		"Value": 2.29,
+		"Name_of_the_field":11
+    },
+	{
+        "id" : 4,
+		"kind":"Peppers",
+		"size_of_the_plant": "15",
+		"water_consumption":null,
+		"total_liters_consumed":"",
+		"Value": 1.79,
+		"Name_of_the_field": 8
+    },
+		{
+        "id" : 5,
+		"kind":"Radiccho",
+		"size_of_the_plant": "8",
+		"water_consumption": {
+			"Winter" : "1", 
+			"Sommer" : "4",
+			"Spring": "3", 
+			"Autumn" : "2",
+		}
+		"total_liters_consumed":""
+		"Value": 1.19,
+		"Name_of_the_field": 4
+    },
+	{
+        "id" : 6,
+		"kind":"Tomato",
+		"size_of_the_plant": "3",
+		"water_consumption": {
+			"Winter" : "1", 
+			"Sommer" : "4",
+			"Spring" : "4", 
+			"Autumn" : "1",
+		}
+		"total_liters_consumed":"",
+		"Value": 2.39,
+		"Name_of_the_field": 1
+    },
+		{
+        "id" : 7,
+		"kind":"Radish",
+		"size_of_the_plant": "35",
+		"water_consumption": {
+			"Winter" : "3", 
+			"Sommer" : "1",
+			"Spring" : "2", 
+			"Autumn" : "4",
+		}
+		"total_liters_consumed":"",
+		"Value": 1.79,
+		"Name_of_the_field": 5
+    },
+		{
+        "id" : 8,
+		"kind":"Lamb's lettuce",
+		"size_of_the_plant": "1",
+		"water_consumption": {
+			"Winter" : "4", 
+			"Sommer" : "1",
+			"Spring": "2", 
+			"Autumn" : "3",
+		}
+		"total_liters_consumed":""
+		"Value": 1.99,
+		"Name_of_the_field":9
+    },
+	{
+        "id" : 9,
+		"kind":"Asparagus",
+		"size_of_the_plant": "15",
+		"water_consumption": {
+			"Winter" : "3", 
+			"Sommer" : "2",
+			"Spring" : "4", 
+			"Autumn" : "1",
+		}
+		"total_liters_consumed":"",
+		"Value": 14.99,
+		"Name_of_the_field": 3
+    },
+]
+
