@@ -8,8 +8,8 @@
 			"Sommer" : "1",
 			"Spring": "1", 
 			"Autumn" : "4",
-		}
-		"total_liters_consumed":""
+		},
+		"total_liters_consumed":"",
 		"Value": 2.29,
 		"Name_of_the_field":4
     },
@@ -22,7 +22,7 @@
 			"Sommer" : "4",
 			"Spring": "4", 
 			"Autumn" : "4",
-		}
+		},
 		"total_liters_consumed":"",
 		"Value": 1.99,
 		"Name_of_the_field": 12
@@ -36,8 +36,8 @@
 			"Sommer" : "4",
 			"Spring": "3", 
 			"Autumn" : "1",
-		}
-		"total_liters_consumed":""
+		},
+		"total_liters_consumed":"",
 		"Value": 1.79,
 		"Name_of_the_field":3
     },
@@ -59,8 +59,8 @@
 			"Sommer" : "4",
 			"Spring": "2", 
 			"Autumn" : "4",
-		}
-		"total_liters_consumed":""
+		},
+		"total_liters_consumed":"",
 		"Value": 2.29,
 		"Name_of_the_field": 11
     },
@@ -73,7 +73,7 @@
 			"Sommer" : "4",
 			"Spring" : "4", 
 			"Autumn" : "1",
-		}
+		},
 		"total_liters_consumed":"",
 		"Value": 2.79,
 		"Name_of_the_field": 13
@@ -96,8 +96,8 @@
 			"Sommer" : "4",
 			"Spring": "4", 
 			"Autumn" : "3",
-		}
-		"total_liters_consumed":""
+		},
+		"total_liters_consumed":"",
 		"Value": 2.99,
 		"Name_of_the_field":9
     },
