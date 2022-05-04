@@ -1,0 +1,16 @@
+{
+        "question": "What happens if we set the multiline option to False in line 1?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "First row of the DataFrame will consist of null entries.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "An Error will be returned by pyspark.",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+        ]
+    }
