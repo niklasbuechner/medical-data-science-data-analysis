@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Exercise data
+/Präsentationen/02-Einfache Transformationen/Corn.json
+/Präsentationen/02-Einfache Transformationen/Diddly_Squat_Farm.db
+/Präsentationen/02-Einfache Transformationen/Fruits.csv
+/Präsentationen/02-Einfache Transformationen/Vegetables.json
+/Präsentationen/02-Einfache Transformationen/result.sqlite
