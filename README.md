@@ -6,6 +6,6 @@ This repository contains the ETL Process tutorial using Apache Spark, DataBricks
 
 The repository contains:
 - A written summary in English in the _PySparkTutorial.ipynb_ notebook.
-- Our German presentations about the topic as well as the example exercises in _Präsentationen_ directory.
+- Our German presentations about the topic as well as the example exercises in the _Präsentationen_ directory.
 - A written summary in English about DataVaults in the _DataVault.ipynb_ notebook.
 - The _iris.json_ and _iris2.json_ files are used within the _PySparkTutorial.ipynb_.
