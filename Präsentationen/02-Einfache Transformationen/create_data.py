@@ -391,7 +391,7 @@ cornData = [
     },
     {
         "crop":"corn",
-        "field": 8,
+        "field": 9,
         "week": 2,
         "water_consumption": 10,
         "revenue": 0,
@@ -423,7 +423,7 @@ cornData = [
     },
     {
         "crop":"corn",
-        "field": 8,
+        "field": 9,
         "week": 6,
         "water_consumption": 18,
         "revenue": 30,
@@ -439,7 +439,7 @@ cornData = [
     },
     {
         "crop":"corn",
-        "field": 8,
+        "field": 10,
         "week": 2,
         "water_consumption": 10,
         "revenue": 0,
@@ -447,7 +447,7 @@ cornData = [
     },
     {
         "crop":"corn",
-        "field": 8,
+        "field": 10,
         "week": 3,
         "water_consumption": 12,
         "revenue": 0,
@@ -463,7 +463,7 @@ cornData = [
     },
     {
         "crop":"corn",
-        "field": 8,
+        "field": 10,
         "week": 8,
         "water_consumption": 26,
         "revenue": 150,
@@ -479,7 +479,7 @@ cornData = [
     },
     {
         "crop":"corn",
-        "field": 8,
+        "field": 9,
         "week": 10,
         "water_consumption": 10,
         "revenue": 100,
