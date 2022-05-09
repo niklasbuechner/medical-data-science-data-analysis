@@ -7,7 +7,7 @@ if os.path.isfile("Diddly_Squat_Farm.db"):
     os.remove("Diddly_Squat_Farm.db")
 
 # Datensatz
-fields_for_insert = [(5, 'Barn Ground', 10), (6, 'Bank', 10), (7, 'Far Brossler', 20),(10, 'Big Broom ', 60), (8, 'Middle Broom', 20), (9, 'Chalks', 25) ]
+fields_for_insert = [(5, 'Barn Ground', 10), (6, 'Bank', 10), (7, 'Far Brossler', 20),(10, 'Big Broom ', 60), (8, 'Middle Broom', 20), (9, 'Chalks', 25)]
 
 # Verbindung zur Datenbank erzeugen
 connection = sqlite3.connect("Diddly_Squat_Farm.db")
