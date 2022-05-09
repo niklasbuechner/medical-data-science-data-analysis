@@ -382,7 +382,7 @@ fruitsFile.close()
 cornFile = open('Corn.json', 'w')
 cornData = [
     {
-        "crop":"corn",
+        "crop":"barley",
         "field": 8,
         "week": 1,
         "water_consumption": 12,
@@ -390,7 +390,7 @@ cornData = [
         "yield_per_sqm": 0
     },
     {
-        "crop":"corn",
+        "crop":"barley",
         "field": 8,
         "week": 2,
         "water_consumption": 10,
@@ -398,7 +398,7 @@ cornData = [
         "yield_per_sqm": 0
     },
     {
-        "crop":"corn",
+        "crop":"barley",
         "field": 8,
         "week": 3,
         "water_consumption": 12,
@@ -406,94 +406,149 @@ cornData = [
         "yield_per_sqm": 0
     },
     {
-        "crop":"corn",
+        "crop":"barley",
         "field": 8,
         "week": 4,
         "water_consumption": 14,
-        "revenue": 0,
-        "yield_per_sqm": 0
-    },
-    {
-        "crop":"corn",
-        "field": 8,
-        "week": 5,
-        "water_consumption": 14,
-        "revenue": 0,
-        "yield_per_sqm": 5
-    },
-    {
-        "crop":"corn",
-        "field": 8,
-        "week": 6,
-        "water_consumption": 18,
-        "revenue": 30,
+        "revenue": 35,
         "yield_per_sqm": 10
     },
     {
-        "crop":"corn",
+        "crop":"barley",
         "field": 8,
-        "week": 1,
+        "week": 5,
+        "water_consumption": 14,
+        "revenue": 50,
+        "yield_per_sqm": 25
+    },
+    {
+        "crop":"barley",
+        "field": 8,
+        "week": 6,
+        "water_consumption": 18,
+        "revenue": 40,
+        "yield_per_sqm": 15
+    },
+    {
+        "crop":"barley",
+        "field": 8,
+        "week": 7,
         "water_consumption": 12,
-        "revenue": 0,
-        "yield_per_sqm": 0
+        "revenue": 60,
+        "yield_per_sqm": 30
     },
     {
         "crop":"corn",
-        "field": 8,
-        "week": 2,
+        "field": 10,
+        "week": 1,
         "water_consumption": 10,
         "revenue": 0,
         "yield_per_sqm": 0
     },
     {
         "crop":"corn",
-        "field": 8,
-        "week": 3,
+        "field": 10,
+        "week": 2,
         "water_consumption": 12,
         "revenue": 0,
         "yield_per_sqm": 0
     },
     {
         "crop":"corn",
-        "field": 8,
-        "week": 7,
+        "field": 10,
+        "week": 3,
         "water_consumption": 20,
+        "revenue": 30,
+        "yield_per_sqm": 25
+    },
+    {
+        "crop":"corn",
+        "field": 10,
+        "week": 4,
+        "water_consumption": 26,
         "revenue": 60,
         "yield_per_sqm": 25
     },
     {
         "crop":"corn",
-        "field": 8,
-        "week": 8,
-        "water_consumption": 26,
-        "revenue": 150,
-        "yield_per_sqm": 25
-    },
-    {
-        "crop":"corn",
-        "field": 8,
-        "week": 9,
+        "field": 10,
+        "week": 5,
         "water_consumption": 24,
         "revenue": 150,
         "yield_per_sqm": 25
     },
     {
         "crop":"corn",
-        "field": 8,
-        "week": 10,
+        "field": 10,
+        "week": 6,
         "water_consumption": 10,
         "revenue": 100,
         "yield_per_sqm": 25
     },
     {
         "crop":"corn",
-        "field": 8,
-        "week": 11,
-        "water_consumption": None,
+        "field": 10,
+        "week": 7,
+        "water_consumption": 15,
         "revenue": 150,
         "yield_per_sqm": 0
+    }, 
+    {
+        "crop":"oats",
+        "field": 9,
+        "week": 1,
+        "water_consumption": 15,
+        "revenue": 0,
+        "yield_per_sqm": 0
+    },
+    {
+        "crop":"oats",
+        "field": 9,
+        "week": 2,
+        "water_consumption": 25,
+        "revenue": 0,
+        "yield_per_sqm": 0
+    },
+    {
+        "crop":"oats",
+        "field": 9,
+        "week": 3,
+        "water_consumption": 15,
+        "revenue": 150,
+        "yield_per_sqm": 60
+    },
+    {
+        "crop":"oats",
+        "field": 9,
+        "week": 4,
+        "water_consumption": 25,
+        "revenue": 150,
+        "yield_per_sqm": 60
+    },
+        {
+        "crop":"oats",
+        "field": 9,
+        "week": 5,
+        "water_consumption": 25,
+        "revenue": 150,
+        "yield_per_sqm": 60
+    },
+    {
+        "crop":"oats",
+        "field": 9,
+        "week": 6,
+        "water_consumption": 15,
+        "revenue": 120,
+        "yield_per_sqm": 40
+    },
+    {
+        "crop":"oats",
+        "field": 9,
+        "week": 7,
+        "water_consumption": 25,
+        "revenue": 100,
+        "yield_per_sqm": 30
     }
 ]
-
 json.dump(cornData, cornFile)
 cornFile.close()
