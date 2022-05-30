@@ -17,4 +17,4 @@ jobs:
       - name: Install Juypter Dependencies
         run: pip install jupyter nbconvert
       - name: Run all notebooks
-        run: find . | grep ipynb | xargs -I "{}" jupyter nbconvert --to notebook --execute "{}"
+        run: find . | grep ipynb | grep -v bungen | xargs -I "{}" jupyter nbconvert --to notebook --execute "{}"
