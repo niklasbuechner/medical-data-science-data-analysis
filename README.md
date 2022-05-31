@@ -14,10 +14,9 @@ explain all materials as well as exercises to practice the concepts. For futher 
 written explainations of all concepts also exist.
 
 # Table of contents:
-- Introduction ([presentation](./Pr%C3%A4sentationen/01-Einf%C3%BChrung/))
-- Extracting data, simple transformations & loading data ([presentation](./Pr%C3%A4sentationen/02-Einfache%20Transformationen/Vortrag%202-Einfache%20Transformationen%20(mit_Daten_der_Geschichte).pdf), [exercises](./Pr%C3%A4sentationen/02-Einfache%20Transformationen/%C3%9Cbungsaufgaben.ipynb), [exercise solution](./Pr%C3%A4sentationen/02-Einfache%20Transformationen/Loesung_zu_Uebungsaufgaben.ipynb))
-- Advanced transformations ([presentation](./Pr%C3%A4sentationen/03-Fortgeschrittene%20Transformationen/Pr%C3%A4sentation/Pyspark_advaced.pptx), [exercises](./Pr%C3%A4sentationen/03-Fortgeschrittene%20Transformationen/Uebungen_Pyspark_Advanced.ipynb), [exersice solution](./Pr%C3%A4sentationen/03-Fortgeschrittene%20Transformationen/Loesung_Uebungen_Teil3.ipynb))
-- DataVault ([presentation](./Pr%C3%A4sentationen/04-DataVault/DataVault.pdf))
+- Introduction ([presentation](./Pr%C3%A4sentationen/01-Einf%C3%BChrung/Einf%C3%BChrung-PySpark-Pr%C3%A4sentation.pdf))
+- Extract, transforma & load data ([presentation](./Pr%C3%A4sentationen/02-Extract-Transform-Load/Extract-Transform-Load-Pr%C3%A4sentation.pdf), [exercises](./Pr%C3%A4sentationen/02-Extract-Transform-Load/Extract-Transform-Load-%C3%9Cbungen.ipynb), [exercise solution](./Pr%C3%A4sentationen/02-Extract-Transform-Load/Extract-Transform-Load-L%C3%B6sung.ipynb))
+- DataVault ([presentation](./Pr%C3%A4sentationen/03-DataVault/DataVault-Pr%C3%A4sentation.pdf))
 
 
 - Written summary of Apache Spark ([document](./PySparkTutorial.ipynb)).
